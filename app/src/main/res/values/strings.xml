@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mycloudmap</string>
+    <string name="marker_chile">chile</string>
+    <string name="marker_new">nueva ubicacion</string>
+    <string name="guardar_ubicacion">Guardar Ubicacion</string>
+    <string name="registrar_usuario">REGISTRAR USUARIO</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nombre">Nombre</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="send_signIn">YA TENGO CUENTA</string>
+    <string name="txtViewName">NombreUsuario</string>
+    <string name="textViewMail">Correo Usuario</string>
+</resources>

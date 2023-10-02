@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "897571359716",
+    "firebase_url": "https://cloudmapaiep-default-rtdb.firebaseio.com",
+    "project_id": "cloudmapaiep",
+    "storage_bucket": "cloudmapaiep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897571359716:android:75e5aef47b2a47a7ba55f1",
+        "android_client_info": {
+          "package_name": "com.example.cloudmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCFuEni6z8G2wdP3F2UcFz_1rNEWsufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897571359716:android:02640161d699071fba55f1",
+        "android_client_info": {
+          "package_name": "com.example.mycloudmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCFuEni6z8G2wdP3F2UcFz_1rNEWsufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897571359716:android:70f3708ccb703e8bba55f1",
+        "android_client_info": {
+          "package_name": "com.felirodri.cloudmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCFuEni6z8G2wdP3F2UcFz_1rNEWsufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897571359716-82cpjfmifou2439f621bjjafhs8i6sga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
